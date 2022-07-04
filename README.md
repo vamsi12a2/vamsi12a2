@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Vamsi.
 - 👀 I’m interested in developing backend applications
-- 🌱 I’m currently learning Microservices with SpringBoot
+- 🌱 I’m currently learning XP
 - 📫 If you are exited to build backend services like me reach me on vamsi12a2@gmail.com
